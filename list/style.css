@@ -1,0 +1,13 @@
+*{
+    background-color: bisque;
+}
+
+#list{
+    height: 100px;
+    overflow: scroll;
+}
+
+.list{
+    color: red;
+    font-size: 20px;
+}
